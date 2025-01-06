@@ -1,4 +1,4 @@
-# CitySimulation
+# CitySimulation 🏙️
 ### ¿Qué es o qué va a ser?
 Un proyecto de aprendizaje para construir sistemas más complejos y elaborados en C# que un simple juego.
 ### ¿Por qué?
